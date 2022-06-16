@@ -1,2 +1,2 @@
-# unbiased_uld
-Unbiased Estimation using the Underdamped Langevin Dynamics (ULD)
+# Unbiased Unbiased Estimation using Underdamped Langevin Dynamics
+Unbiased Estimation using Underdamped Langevin Dynamics (ULD)
